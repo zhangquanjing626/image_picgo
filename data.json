@@ -1,0 +1,141 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "tcyun": {
+      "_configName": "Default",
+      "_id": "700bfc13-35af-4945-9344-c19ae2536cc5",
+      "_createdAt": 1695562052094,
+      "_updatedAt": 1695562052094
+    },
+    "aliyun": {
+      "_configName": "Default",
+      "_id": "66c3be1f-d1ac-4652-a1a9-dedd6e76ec66",
+      "_createdAt": 1695562052533,
+      "_updatedAt": 1695562052533
+    },
+    "github": {
+      "_configName": "pic_2",
+      "_id": "4983bee9-ab20-4e36-9b97-51fd158dbe02",
+      "_createdAt": 1695562053741,
+      "_updatedAt": 1695562611107,
+      "repo": "zhangquanjing626/image_picgo",
+      "branch": "master",
+      "token": "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",
+      "path": "",
+      "customUrl": ""
+    },
+    "local": {
+      "_configName": "Default",
+      "_id": "f5b202af-ef71-43f4-ae29-6543d5ca2b3f",
+      "_createdAt": 1695562056449,
+      "_updatedAt": 1695562056449
+    },
+    "webdavplist": {
+      "_configName": "Default",
+      "_id": "80fcd5d9-6857-4f0f-9214-785747035bc7",
+      "_createdAt": 1695562057678,
+      "_updatedAt": 1695562057678
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "showUpdateTip": true,
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "isListeningClipboard": false,
+    "deleteCloudFile": true,
+    "autoImport": true,
+    "autoImportPicBed": [
+      "github"
+    ],
+    "sync": {
+      "type": "github",
+      "username": "zhangquanjing626",
+      "repo": "image_picgo",
+      "branch": "master",
+      "token": "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",
+      "proxy": "",
+      "interval": 60
+    }
+  },
+  "needReload": false,
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "uploader": {
+    "tcyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "700bfc13-35af-4945-9344-c19ae2536cc5",
+          "_createdAt": 1695562052094,
+          "_updatedAt": 1695562052094
+        }
+      ],
+      "defaultId": "700bfc13-35af-4945-9344-c19ae2536cc5"
+    },
+    "aliyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "66c3be1f-d1ac-4652-a1a9-dedd6e76ec66",
+          "_createdAt": 1695562052533,
+          "_updatedAt": 1695562052533
+        }
+      ],
+      "defaultId": "66c3be1f-d1ac-4652-a1a9-dedd6e76ec66"
+    },
+    "github": {
+      "configList": [
+        {
+          "_configName": "pic_2",
+          "_id": "4983bee9-ab20-4e36-9b97-51fd158dbe02",
+          "_createdAt": 1695562053741,
+          "_updatedAt": 1695562611107,
+          "repo": "zhangquanjing626/image_picgo",
+          "branch": "master",
+          "token": "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",
+          "path": "",
+          "customUrl": ""
+        }
+      ],
+      "defaultId": "4983bee9-ab20-4e36-9b97-51fd158dbe02"
+    },
+    "local": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "f5b202af-ef71-43f4-ae29-6543d5ca2b3f",
+          "_createdAt": 1695562056449,
+          "_updatedAt": 1695562056449
+        }
+      ],
+      "defaultId": "f5b202af-ef71-43f4-ae29-6543d5ca2b3f"
+    },
+    "webdavplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "80fcd5d9-6857-4f0f-9214-785747035bc7",
+          "_createdAt": 1695562057678,
+          "_updatedAt": 1695562057678
+        }
+      ],
+      "defaultId": "80fcd5d9-6857-4f0f-9214-785747035bc7"
+    }
+  }
+}
